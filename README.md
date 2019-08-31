@@ -22,6 +22,14 @@ https://remix.ethereum.org
 - Create a file under "File Explorers", insert HSDCoin.sol as content.
 - Compile with the "Solidiy Compiler", using compiler 0.4.26-commit
 - Via "Deploy and Run transactions", deploy on Injected Web3 environment.
+- Bij het deployen ontstaat een link naar de transactie: https://ropsten.etherscan.io
+- Indien het contract succesvol wordt gedeployed kun je het open klikken, onder Deployed Contracts
+  Hier kun je ook het adres van het contact kopieren met de knop "copy value to clipboard"
+
+
+
+
+
 
 
 
